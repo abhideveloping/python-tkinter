@@ -1,1 +1,1 @@
-('prakash', '23432', 'male', '2343', 'credit', 1)
+('roy', '2343', 'male', '2343', 'credit', 1)
